@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/asus/Documents/GitHub/C-ODEVLER",
-      "program": "c:/Users/asus/Documents/GitHub/C-ODEVLER/build/Debug/outDebug",
+      "cwd": "c:/Users/asus/Desktop/GitHub/C-ODEVLER",
+      "program": "c:/Users/asus/Desktop/GitHub/C-ODEVLER/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
